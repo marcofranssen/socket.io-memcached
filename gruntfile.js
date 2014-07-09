@@ -8,7 +8,9 @@ module.exports = function (grunt) {
             options: {
                 jshintrc: '.jshintrc'
             },
-            gruntfile: ['gruntfile.js']
+            gruntfile: ['gruntfile.js'],
+            index: ['index.js'],
+            lib: ['lib/**/*.js']
         },
 
         watch: {
