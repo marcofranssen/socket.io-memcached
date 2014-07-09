@@ -4,7 +4,7 @@
   "description": "Socket.io 1.x memcached adapter",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt travis"
   },
   "repository": {
     "type": "git",
