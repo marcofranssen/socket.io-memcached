@@ -1,4 +1,4 @@
-# socket.io-memcached
+# socket.io-memcached [![Build Status](https://secure.travis-ci.org/marcofranssen/socket.io-memcached.png)](http://travis-ci.org/marcofranssen/socket.io-memcached)
 
 ## Note
 
